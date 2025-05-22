@@ -47,10 +47,4 @@ This project is a web-based Property Recommendation App built with Flask and Pyt
 - Python 3.7+
 - See `requirements.txt` for required packages.
 
-## License
-
-MIT License
-
----
-
-Made with ❤️ using Flask, pandas, and scikit-learn.
+by Amanuel Tefera
